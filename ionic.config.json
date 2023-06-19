@@ -1,0 +1,7 @@
+{
+  "name": "a2MovelFinal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
